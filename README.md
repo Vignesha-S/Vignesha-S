@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Vignesha
-🚀 Data Science | Machine Learning | Data Analysis 
+🚀 Data Science | Data Analytics | Machine Learning
 
 ---
 
