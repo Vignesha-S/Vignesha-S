@@ -32,9 +32,9 @@
 ---
 
 ## 📈 GitHub Stats  
-![Vignesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Vignesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesha-S&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesha-S&layout=compact&theme=radical)  
 
 ---
 
