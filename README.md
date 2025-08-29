@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **AI & Data Science Projects**  
 - 🌱 Exploring **Deep Learning, NLP, and Cloud Deployment**  
 - 💡 Passionate about solving real-world problems using AI  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **vigneshasajeev@gmail.com**  
 - ⚡ Fun fact: I love turning data into meaningful insights 📊  
 
 ---
@@ -24,10 +24,10 @@
 ---
 
 ## 📌 Featured Projects  
-- 🧠 [Brain Tumor MRI Classification](https://github.com/yourusername/brain-tumor-classification) – Deep learning model to classify MRI scans into tumor categories.  
-- 📊 [E-commerce Analytics & Recommendation Engine](https://github.com/yourusername/ecommerce-analytics) – RFM analysis + K-Means + recommendation system.  
-- 🌍 [Food Waste Management System](https://github.com/yourusername/food-waste-management) – SQL + Streamlit project to optimize food distribution.  
-- 📝 [Toxic Comment Classification](https://github.com/yourusername/toxic-comment-classifier) – NLP LSTM model to detect toxic language online.  
+- 🧠 [Brain Tumor MRI Classification](https://github.com/Vignesha-S/brain-tumor-mri-classification) – Deep learning model to classify MRI scans into tumor categories.  
+- 📊 [Shopper Spectrum: Customer Segmentation & Product Recommendation](https://github.com/Vignesha-S/shopper-spectrum-rfm-recommender) – RFM analysis + K-Means + recommendation system.  
+- 🌍 [Food Waste Management System](https://github.com/Vignesha-S/Food-Waste-Management) – SQL + Streamlit project to optimize food distribution.  
+- 📝 [Toxic Comment Classification](https://github.com/Vignesha-S/Comment-Toxicity-Detection) – NLP LSTM model to detect toxic language online.  
 
 ---
 
