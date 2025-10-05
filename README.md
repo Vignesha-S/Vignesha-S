@@ -50,6 +50,7 @@
 - 📊 [Shopper Spectrum: Customer Segmentation & Product Recommendation](https://github.com/Vignesha-S/shopper-spectrum-rfm-recommender) – RFM analysis + K-Means + recommendation system.  
 - 🌍 [Food Waste Management System](https://github.com/Vignesha-S/Food-Waste-Management) – SQL + Streamlit project to optimize food distribution.  
 - 📝 [Toxic Comment Classification](https://github.com/Vignesha-S/Comment-Toxicity-Detection) – NLP LSTM model to detect toxic language online.  
+- 🚚 [Amazon Delivery Time Prediction](https://github.com/Vignesha-S/amazon-delivery-time-prediction) – End-to-end regression project with EDA, MLflow experiment tracking, and Streamlit deployment to predict delivery times.
 
 ---
 
